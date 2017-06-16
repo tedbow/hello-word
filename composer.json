@@ -1,0 +1,13 @@
+{
+    "name": "ted.bowman/hello_world",
+    "description": "Hi there!",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ted Bowman",
+            "email": "ted.git@tedbow.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
